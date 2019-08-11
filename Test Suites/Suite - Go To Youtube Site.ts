@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Suite - Go to Youtube</name>
+   <name>Suite - Go To Youtube Site</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -9,9 +9,9 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <testSuiteGuid>1c9bdb49-7ae7-40a4-a904-c8b40aae3cde</testSuiteGuid>
+   <testSuiteGuid>d67be33a-e429-4243-a1e1-b81a84e86720</testSuiteGuid>
    <testCaseLink>
-      <guid>942f958e-0424-45e1-a708-cf9b37a22ddd</guid>
+      <guid>b6ca04d7-2f64-4bfa-a56d-aa189ee41e29</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Go To Youtube Page</testCaseId>
